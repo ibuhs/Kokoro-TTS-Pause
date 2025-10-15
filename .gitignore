@@ -1,0 +1,46 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.Python
+
+# Audio files
+*.wav
+*.mp3
+*.m4a
+
+# Temporary files
+*.txt
+temp*.wav
+seg*.wav
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Output directory (keep structure, ignore content)
+output/*.wav
+output/*.mp3
+scripts/*.wav
+scripts/*.mp3
+
+# Keep example outputs
+!examples/*.wav
+
+# Logs
+*.log
+
+# Model cache
+.cache/
+models/
+

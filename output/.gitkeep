@@ -1,0 +1,3 @@
+# Output directory for generated meditation audio
+# .wav files are ignored by .gitignore
+
