@@ -35,7 +35,7 @@ Perfect for:
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Kokoro-TTS-Pause.git
+   git clone https://github.com/ibuhs/Kokoro-TTS-Pause.git
    cd Kokoro-TTS-Pause
    ```
 
